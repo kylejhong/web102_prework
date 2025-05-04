@@ -25,7 +25,7 @@ I created new CSS styles for the entire page to fit the brand identity I would i
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/rnZm5bk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Codepath Prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
